@@ -1,6 +1,12 @@
 # Projeto Épico
 
 ## Objetivos
+ao iniciar faça um quarto de adolecente de fundo e destaque um cigarro 
+fume cigarro apertando o botão esquerdo do mouse antes da sua mãe chegar
+cada clique no botão direito do moue significa um pouco a menos de cigarro
+faça uma porta fechada no quarto 
+e em tempos aleatorios faça a porta abrir revelando a mãe
+caso sua mãe chegue pare tudo e troque a tela para um game over escrito "sua mãe te viu fazer fumaça"
 
 ### Stack Tecnlógico
 - Backend: PHP estruturado com sessões nativas
@@ -8,6 +14,10 @@
 - Frontend: HTML5, PHP, CSS, Tailwind CSS
 
 #### Regras de negócio (CORE)
+
+fumo secreto
+aumento de pontos por fumo
+encerramento em caso de flagrante
 
   
 
